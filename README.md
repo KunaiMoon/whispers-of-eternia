@@ -6,4 +6,4 @@ Juego mmorpg jam con varias cosas increible. pruebalo.
 
 
 
-- Endes123321: ayudo en la idea original de la historia.
+- Endes123321: ayudo en la idea original de la historia(la idea original de la historia es suya, no es parte del proyecto) y en los UMl de los diagramas de flujo.
